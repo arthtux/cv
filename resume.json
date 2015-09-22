@@ -31,13 +31,25 @@
       "company": "Savoir-faire Linux",
       "position": "Administrateur Système Linux",
       "website": "https://savoirfairelinux.com",
-      "startDate": "2013-10-22",
+      "startDate": "2014-06-01",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Maintenance de serveur",
+        "Helpdesk",
+        "Migration de site web",
+        "R&D sur Openstack"
       ]},
+      {
+        "company": "Savoir-faire Linux",
+        "position": "Developpeur Backend Python",
+        "website": "https://savoirfairelinux.com",
+        "startDate": "2013-10-22",
+        "endDate": "2014-06-01",
+        "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+        "highlights": [
+          "Developpement de site avec le framwork Django",
+          "Developpement de site d'analyse de donné avec le framwork bottle"
+        ]},
     {
       "company": "Absystech",
       "position": "Administrateur Système",
@@ -66,17 +78,24 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
+      "institution": "Epitech",
       "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "2009-10-01",
+      "endDate": "2013-06-30",
       "courses": [
         "DB1101 - Basic SQL",
         "CS2011 - Java Introduction"
       ]
+    },
+ {
+      "institution": "BTS Électronique",
+      "area": "Système Électronique",
+      "studyType": "BTS",
+      "startDate": "2007-09-01",
+      "endDate": "2009-06-30"
     }
+
   ],
   "awards": [
     {
